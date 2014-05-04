@@ -92,7 +92,7 @@
             </plugin>
 
             <!-- Allows you to run Ninja via the SuperDeasdfasdfasdfasdfasdfasdfasdfvMode. -->
-            <!-- run "mvn ninja:run" on the command line for the best -->
+            <!-- run "mvn ninja:run" on the command linegfhgfhfhfgh for the best -->
             <!-- development experience. -->
             <plugin>
                 <groupId>org.ninjaframework</groupId>
