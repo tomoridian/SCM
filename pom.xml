@@ -91,7 +91,7 @@
                 </configuration>
             </plugin>
 
-            <!-- Allows you to run Ninja via the SuperDevMode. -->
+            <!-- Allows you to run Ninja via the SuperDeasdfasdfasdfasdfasdfasdfasdfvMode. -->
             <!-- run "mvn ninja:run" on the command line for the best -->
             <!-- development experience. -->
             <plugin>
